@@ -1,7 +1,7 @@
 # projeto-final-ipoo
 Projeto prático final de IPOO utilizando a ferramenta Greenfoot para a criação de um jogo onde pudesse aprender e aplicar conceitos de OO.
 
-Esse projeto, por mais que pareça bobo, foi muito importante para mim e devido a isso guardo um carinho enorme por ele.
+Esse projeto foi muito importante para mim e devido a isso guardo um carinho enorme por ele.
 Foi a primeira vez que tive contato real com OO e por mais que pareça um projeto bobo, eu evoluí muito durante seu desenvolvimento, deixo abaixo alguns tópicos os quais desenvolvi e pratiquei ao decorrer do projeto.
 
  Conceitos básicos de OO: Abstração e Modularização, Estado de Objetos, Construtor e Destrutor, Encapsulamento e Visibilidade, Atributos e Métodos Estáticos, Herança Simples,
