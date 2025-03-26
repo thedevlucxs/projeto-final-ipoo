@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Inimigo
+comment1.params=pontuacao\ pontosDeVida\ velocidade
+comment1.target=Inimigo(Pontuacao,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moverEmDirecaoAoPersonagem()
+comment4.params=
+comment4.target=void\ verificarProximaFase()
+comment5.params=
+comment5.target=void\ reiniciarJogo()
+numComments=6

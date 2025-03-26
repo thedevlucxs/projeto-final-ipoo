@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Venceu
+comment1.params=pontuacao
+comment1.target=Venceu(int)
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ mostrarPontuacao()
+comment4.params=
+comment4.target=void\ mostrarHistoricoPontuacoes()
+numComments=5

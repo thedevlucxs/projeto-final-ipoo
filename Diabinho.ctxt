@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Diabinho
+comment1.params=pontuacao
+comment1.target=Diabinho(Pontuacao)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ verificarColisao()
+comment4.params=
+comment4.target=int\ getContadorDiabinhos()
+comment5.params=
+comment5.target=void\ resetContadorDiabinhos()
+numComments=6

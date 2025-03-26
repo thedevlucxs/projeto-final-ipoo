@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Jogo
+comment1.params=largura\ altura\ imagemFundo\ pontuacao
+comment1.target=Jogo(int,\ int,\ java.lang.String,\ Pontuacao)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ adicionarMortoVivo()
+comment4.params=
+comment4.target=void\ verificarVitoria()
+comment5.params=
+comment5.target=void\ gameOver()
+numComments=6

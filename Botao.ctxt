@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Botao
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Botao\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ checarMouse()
+comment1.text=\r\n\ \ \ \ \ Essa\ fun\u00E7\u00E3o\ identifica\ se\ o\ mouse\ est\u00E1\ em\ cima\ do\ bot\u00E3o\r\n\ \ \ \ \ e\ altera\ sua\ transparencia\ para\ sabermos\ que\ podemos\ clicar\r\n
+comment2.params=world
+comment2.target=void\ checarClique(greenfoot.World)
+comment2.text=\ essa\ fun\u00E7\u00E3o\ cria\ um\ novo\ mundo\ ao\ clicar\ nos\ bot\u00F5es,\ seja\ ele\r\nas\ instrucoes\ ou\ o\ proprio\ jogo
+comment3.params=transparencia
+comment3.target=void\ ajustarTransparencia(int)
+comment3.text=\ essa\ fun\u00E7\u00E3o\ altera\ a\ transpar\u00EAncia\ do\ bot\u00E3o,\ com\ as\ implementa\u00E7\u00F5es\r\nanteriores,\ deixa\ ele\ escuro\ quando\ o\ mouse\ est\u00E1\ em\ cima
+numComments=4

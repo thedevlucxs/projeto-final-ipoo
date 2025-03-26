@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dungeon2
+comment1.params=pontuacao
+comment1.target=Dungeon2(Pontuacao)
+comment2.params=
+comment2.target=void\ Jogar()
+comment3.params=
+comment3.target=void\ adicionarDiabinho()
+comment4.params=
+comment4.target=void\ adicionarVampiro()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

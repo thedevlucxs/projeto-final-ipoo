@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pontuacao
+comment1.params=
+comment1.target=Pontuacao()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=pontosAdicionais
+comment3.target=void\ adicionarPontos(int)
+comment4.params=
+comment4.target=void\ mostrarPontuacao()
+comment5.params=
+comment5.target=int\ getPontos()
+comment6.params=pontuacao
+comment6.target=void\ salvarPontuacaoFinal(Pontuacao)
+comment7.params=
+comment7.target=java.util.ArrayList\ getHistoricoPontuacoes()
+numComments=8

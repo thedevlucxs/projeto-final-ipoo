@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VoltarAoMenu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ VoltarAoMenu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=VoltarAoMenu()
+comment1.text=basicamente\ essa\ fun\u00E7\u00E3o\ cria\ e\ estiliza\ o\ texto\ do\ bot\u00E3o\ como\ se\ fosse\r\numa\ imagem
+comment2.params=
+comment2.target=void\ act()
+numComments=3
