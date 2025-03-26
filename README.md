@@ -13,7 +13,7 @@ INFORMAÇÕES GERAIS
 Nome do jogo: Tales From The Dungeon
 
 Tem alta coesão, cada classe implementada é bem objetiva.
-Tem baixo acoplamento, tentamos fazer as classes serem o mais independentes possível.
+Tem baixo acoplamento, as classes são o mais independentes possível.
 Usa design baseado em responsabilidade, cada classe é responsável por uma parte específica do jogo.
 
 COMENTÁRIOS
